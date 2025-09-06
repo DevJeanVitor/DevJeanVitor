@@ -37,7 +37,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
   </a>
 </p>
 
-### Linguagens
+### Linguagem
 
 <p align="left">
   <img
