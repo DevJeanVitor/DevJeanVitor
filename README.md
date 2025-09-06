@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=000080&left=true&width=800&lines=Nome+Sobrenome+%7C+Desenvolvedor+Back-End" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=000080&left=true&width=800&lines=Jean+Vitor+%7C+Desenvolvedor+Back-End" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="Ver Perfil no GitHub"
       title="Ver Perfil no GitHub"
-      src="https://github.com/user-attachments/assets/966a95cb-d2e1-4c8c-9281-a84e84fbb638"
+      src="https://github.com/user-attachments/assets/0ad6b5d1-e0cf-499e-b9cc-28161dd2509d"
     />
   </a>
   
@@ -32,7 +32,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="Seguir no GitHub"
       title="Me siga no GitHub"
-      src="https://github.com/user-attachments/assets/0aab1300-7aa7-49fc-944d-f914405ad8d0"
+      src="https://github.com/user-attachments/assets/ddcf07cd-9ed7-4545-b95a-d061371183be"
     />
   </a>
 </p>
@@ -46,7 +46,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
     title="C++"
     height="40"
     style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/d2976faa-905d-4acd-a997-56394d75729e"
+    src="https://github.com/user-attachments/assets/3778fd7d-217f-4af8-b5a7-63095a74af26"
   />
   <br/>
 </p>
