@@ -14,7 +14,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="LinkedIn"
       title="Conecte-se comigo no LinkedIn"
-      src="https://github.com/user-attachments/assets/7a6fd3a2-962c-45ac-86ab-d00c836a97ca"
+      src="https://github.com/user-attachments/assets/ddcf07cd-9ed7-4545-b95a-d061371183be"
     />
   </a>
 
@@ -32,7 +32,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="Seguir no GitHub"
       title="Me siga no GitHub"
-      src="https://github.com/user-attachments/assets/ddcf07cd-9ed7-4545-b95a-d061371183be"
+      src="https://github.com/user-attachments/assets/37cfd868-46fd-4bda-8eed-9360d4aff92a"
     />
   </a>
 </p>
