@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na programação como bolsista PIBITI, onde fui responsável por desenvolver tanto o firmware quanto o hardware para sistemas inteligentes autônomos.
+Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na programação como bolsista PIBITI, onde fui responsável por desenvolver tanto o firmware quanto o hardware para sistemas inteligentes autônomos. Atualmente estou cursando 2° Período de Sistemas de Informação no IFAL, mesma instituição na qual que concluí o ensino médio integrado ao técnico em eletroeletrônica.
 </p>
 
 <p align="left">
