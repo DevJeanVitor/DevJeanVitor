@@ -13,7 +13,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="LinkedIn"
       title="Conecte-se comigo no LinkedIn"
-      src="https://github.com/user-attachments/assets/ddcf07cd-9ed7-4545-b95a-d061371183be"
+      src="https://github.com/user-attachments/assets/6eb9679b-f6cb-4809-9879-a6797dcebe76"
     /></a>
 
   <a href="https://github.com/DevJeanVitor" target="_blank">
@@ -21,7 +21,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="Ver Perfil no GitHub"
       title="Ver Perfil no GitHub"
-      src="https://github.com/user-attachments/assets/0ad6b5d1-e0cf-499e-b9cc-28161dd2509d"
+      src="https://github.com/user-attachments/assets/20109f73-2814-4bc4-8bd6-9d4444a10c16"
     /></a>
   
   <a href="https://github.com/DevJeanVitor?tab=followers" target="_blank">
@@ -29,7 +29,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="Seguir no GitHub"
       title="Me siga no GitHub"
-      src="https://github.com/user-attachments/assets/37cfd868-46fd-4bda-8eed-9360d4aff92a"
+      src="https://github.com/user-attachments/assets/76c57324-7b72-45bc-90df-bbeb28bc1cd9"
     /></a>
 </p>
 
