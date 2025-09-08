@@ -13,7 +13,7 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       height="40"
       alt="LinkedIn"
       title="Conecte-se comigo no LinkedIn"
-      src="https://github.com/user-attachments/assets/ddcf07cd-9ed7-4545-b95a-d061371183be"
+      src="https://github.com/user-attachments/assets/ceb169cc-59b6-42bb-aac3-014422e04a91"
     /></a>
 
   <a href="https://github.com/DevJeanVitor" target="_blank">
