@@ -16,12 +16,12 @@ Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na p
       src="https://github.com/user-attachments/assets/76c57324-7b72-45bc-90df-bbeb28bc1cd9"
     /></a>
 
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/DevJeanVitor" target="_blank">
     <img
       height="40"
       alt="Cópiar Perfil no GitHub"
       title="Cópiar Perfil no GitHub"
-      src="https://github.com/user-attachments/assets/"
+      src="https://github.com/user-attachments/assets/6eb9679b-f6cb-4809-9879-a6797dcebe76"
     /></a>
   
   <a href="https://github.com/DevJeanVitor?tab=followers" target="_blank">
