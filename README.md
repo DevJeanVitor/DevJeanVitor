@@ -1,10 +1,10 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=0ABAB5&left=true&width=800&lines=Jean+Vitor+%7C+Desenvolvedor+Back-End" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=0ABAB5&left=true&width=800&lines=Jean+Vitor+%7C+Desenvolvedor+de Software" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
-Atuo como Desenvolvedor Back-End com foco em C++. Iniciei minha trajetória na programação como bolsista PIBITI, onde fui responsável por desenvolver tanto o firmware quanto o hardware para sistemas inteligentes autônomos. Atualmente estou cursando 2° período de Sistemas de Informação no IFAL, mesma instituição na qual que concluí o ensino médio integrado ao técnico em eletroeletrônica.
+Atuo como Desenvolvedor de Software com foco em C++. Iniciei minha trajetória na programação como bolsista PIBITI, onde fui responsável por desenvolver tanto o firmware quanto o hardware para sistemas inteligentes autônomos. Atualmente estou cursando 2° período de Sistemas de Informação no IFAL, mesma instituição na qual que concluí o ensino médio integrado ao técnico em eletroeletrônica.
 </p>
 
 <p align="left">
