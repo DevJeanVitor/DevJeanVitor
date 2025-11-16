@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-Atuo como Desenvolvedor de Software com foco em C++. Iniciei minha trajetória na programação como bolsista PIBITI, onde fui responsável por desenvolver tanto o firmware quanto o hardware para sistemas inteligentes autônomos. Atualmente estou cursando 2° período de Sistemas de Informação no IFAL, mesma instituição na qual que concluí o ensino médio integrado ao técnico em eletroeletrônica.
+Desenvolvedor de Software Embarcado C++ com 2 anos de experiência prática e de pesquisa no grupo LEIA (Laboratório de Eletrônica, Instrumentação e Automação). Como bolsista PIBITI, fui responsável pelo desenvolvimento de firmware e hardware para sistemas IoT (irrigação inteligente com ESP32, LoRa e GSM) e controladores de carga MPPT. Atualmente estou cursando 2° período de Sistemas de Informação no IFAL, mesma instituição na qual que concluí o ensino médio integrado ao técnico em eletroeletrônica.
 </p>
 
 <p align="left">
