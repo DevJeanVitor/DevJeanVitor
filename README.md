@@ -1,10 +1,10 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=0ABAB5&left=true&width=800&lines=Jean+Vitor+%7C+Desenvolvedor+de+Software" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=0ABAB5&left=true&width=800&lines=Jean+Vitor+%7C+Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
-Desenvolvedor de Software Embarcado C++ com 2 anos de experiência prática e de pesquisa no grupo LEIA (Laboratório de Eletrônica, Instrumentação e Automação). Como bolsista PIBITI, fui responsável pelo desenvolvimento de firmware e hardware para sistemas IoT (irrigação inteligente com ESP32, LoRa e GSM) e controladores de carga MPPT. Atualmente estou cursando 2° período de Sistemas de Informação no IFAL, mesma instituição na qual que concluí o ensino médio integrado ao técnico em eletroeletrônica.
+Embedded Software Developer C++ with 2 years of practical experience and research in the LEIA (Electronics, Instrumentation, and Automation Laboratory) group. As a PIBITI scholarship recipient, I was responsible for developing firmware and hardware for IoT systems (smart irrigation with ESP32, LoRa, and GSM) and MPPT charge controllers. I am currently in the second semester of the Information Systems course at IFAL, the same institution where I completed high school integrated with technical studies in electrical and electronic engineering.
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@ Desenvolvedor de Software Embarcado C++ com 2 anos de experiência prática e de
     <img
       height="40"
       alt="LinkedIn"
-      title="Conecte-se comigo no LinkedIn"
+      title="Connect with me on LinkedIn"
       src="https://github.com/user-attachments/assets/76c57324-7b72-45bc-90df-bbeb28bc1cd9"
     /></a>
   
@@ -20,12 +20,12 @@ Desenvolvedor de Software Embarcado C++ com 2 anos de experiência prática e de
     <img
       height="40"
       alt="Seguir no GitHub"
-      title="Me siga no GitHub"
+      title="Follow me on GitHub"
       src="https://github.com/user-attachments/assets/20109f73-2814-4bc4-8bd6-9d4444a10c16"
     /></a>
 </p>
 
-### Linguagem
+### Language
 
 <p align="left">
   <img
