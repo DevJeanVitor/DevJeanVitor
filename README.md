@@ -27,11 +27,11 @@ C/C++ Firmware Developer with 2 years of practical experience and research in th
       height="40"
       alt="Portfólio"
       title="See my projects"
-      src="https://github.com/user-attachments/assets/c25edd41-89b3-4cdd-aba5-09b1e9516f57"
+      src="https://github.com/user-attachments/assets/91000e7a-0cf4-4a75-9af5-7b8a35bdb162"
     /></a>
 </p>
 
-### Language
+### Language and Technologies
 
 <p align="left">
   <img align="left" alt="C++" title="C++" height="40" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/3778fd7d-217f-4af8-b5a7-63095a74af26" />
