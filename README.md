@@ -1,10 +1,10 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=0ABAB5&left=true&width=800&lines=Jean+Vitor+%7C+Firmware+Developer" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&size=28&pause=1000&color=0ABAB5&left=true&width=800&lines=Jean+Vitor+%7C+Embedded+Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
-C/C++ Firmware Developer with 2 years of practical experience and research in the LEIA (Electronics, Instrumentation, and Automation Laboratory) group. As a PIBITI scholarship recipient, I was responsible for developing firmware and hardware for IoT systems (smart irrigation with ESP32, LoRa, and GSM) and MPPT charge controllers. I am currently in the second semester of the Information Systems course at IFAL, the same institution where I completed high school integrated with technical studies in electrical and electronic engineering.
+Embedded C++ Software Developer with 2 years of practical experience and research in the LEIA (Electronics, Instrumentation, and Automation Laboratory) group. As a PIBITI scholarship recipient, I was responsible for developing firmware and hardware for IoT systems (smart irrigation with ESP32, LoRa, and GSM) and MPPT charge controllers. I am currently in the second semester of the Information Systems course at IFAL, the same institution where I completed high school integrated with technical studies in electrical and electronic engineering.
 </p>
 
 <p align="left">
