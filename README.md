@@ -27,7 +27,7 @@ C/C++ Firmware Developer with 2 years of practical experience and research in th
       height="40"
       alt="Portfólio"
       title="See my projects"
-      src="https://github.com/user-attachments/assets/91000e7a-0cf4-4a75-9af5-7b8a35bdb162"
+      src="https://github.com/user-attachments/assets/56a744e9-0717-42f1-96ae-0e806e6e11bb"
     /></a>
 </p>
 
