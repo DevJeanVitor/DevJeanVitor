@@ -15,31 +15,30 @@ C/C++ Firmware Developer with 2 years of practical experience and research in th
       title="Connect with me on LinkedIn"
       src="https://github.com/user-attachments/assets/76c57324-7b72-45bc-90df-bbeb28bc1cd9"
     /></a>
-  
   <a href="https://github.com/DevJeanVitor?tab=followers" target="_blank">
     <img
       height="40"
-      alt="Seguir no GitHub"
+      alt="GitHub"
       title="Follow me on GitHub"
       src="https://github.com/user-attachments/assets/20109f73-2814-4bc4-8bd6-9d4444a10c16"
+    /></a>
+    <a href="https://devjeanvitor.github.io/portfolio/" target="_blank">
+    <img
+      height="40"
+      alt="Portfólio"
+      title="See my projects"
+      src="https://github.com/user-attachments/assets/c25edd41-89b3-4cdd-aba5-09b1e9516f57"
     /></a>
 </p>
 
 ### Language
 
 <p align="left">
-  <img
-    align="left"
-    alt="C++"
-    title="C++"
-    height="40"
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/3778fd7d-217f-4af8-b5a7-63095a74af26"
-  />
-  <br/>
-</p>
-
-<br>
+  <img align="left" alt="C++" title="C++" height="40" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/3778fd7d-217f-4af8-b5a7-63095a74af26" />
+  <img align="left" alt="C" title="C" height="40" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/bb89dcea-c8e3-448e-801e-36c91e1e4597" />
+  <img align="left" alt="Linux" title="Linux" height="40" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/1de64c9e-ba0b-43a2-9f29-43849ea795e2" />
+  </p>
+<br clear="left"/>
 
 <p align="center">
 </p>
